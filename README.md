@@ -21,3 +21,8 @@ Example XML:
 </annotation>
 ```
 Original files include more fields, but as those are not necessary to crop out desired areas I do not parse them and do not include in this example.
+
+## How to run
+Execution root is in `src/app.py`.
+Before running it make sure you have all installed packages (see `requirements.txt`)
+Please remember that this program assumes certain directory structure (see `data` directory)
