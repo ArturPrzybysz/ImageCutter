@@ -24,5 +24,5 @@ Original files include more fields, but as those are not necessary to crop out d
 
 ## How to run
 Execution root is in `src/app.py`.
-Before running it make sure you have all installed packages (see `requirements.txt`)
+Before running it make sure you have installed all needed packages (see `requirements.txt`)
 Please remember that this program assumes certain directory structure (see `data` directory)
