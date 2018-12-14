@@ -1,4 +1,4 @@
-class Image:
+class ImageInfo:
     size: (int, int)
     image_name: str
     special_areas: []
